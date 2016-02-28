@@ -1,0 +1,14 @@
+- place_name: 10419 Venice Blvd, Los Angeles, California 90034, United States
+  zoom: 11
+  center: 
+    - 34.020794936018724
+    - -118.40446472167969
+  tags: 
+    - userbookmark
+- place_name: 2378 Venice Blvd, Los Angeles, California 90019, United States
+  zoom: 11
+  center: 
+    - 34.043556504127444
+    - -118.31108093261724
+  tags: 
+    - userbookmark

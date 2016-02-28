@@ -1,0 +1,28 @@
+_prefs: 
+  mapid: kirschbombe.ae0a59b5
+  saveCenter: true
+_properties: 
+  bridge: 
+    "group-by": layer
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -118.1978
+  - 34.0601
+  - 11
+description: A monotone basemap that's easy to recolor.
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 22
+minzoom: 0
+name: Lyrical 2
+source: "mapbox:///mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - roads.mss
+template: ''
